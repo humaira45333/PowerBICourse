@@ -32,6 +32,8 @@ This repository contains training material for Power BI.
     - Setup report filters for more interactive reports
 14. **Publish and share with Power BI**
     - Publishing reports to Power BI Service and sharing with others
+    - Power Bi App:
+    - https://app.powerbi.com/Redirect?action=OpenApp&appId=bb79c32b-0e83-4f1d-ab7c-29868c60c72f&ctid=2c614b94-e193-408e-8800-ca71e2a4d5a9
 15. **Explore data in Power BI**
     - Exploring data in Power BI Service
 16. **Create Dashboards in Power BI**
