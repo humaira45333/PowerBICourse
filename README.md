@@ -40,6 +40,7 @@ This repository contains training material for Power BI.
     - https://app.powerbi.com/groups/96812363-4891-47de-9c3b-930398e97ed3/dashboards/76323e19-7e8c-4beb-8323-6b859774926a?ctid=2c614b94-e193-408e-8800-ca71e2a4d5a9&pbi_source=linkShare
 16. **Create Dashboards in Power BI**
     - Learn Power BI dashbaords in Power BI Service
+    - https://app.powerbi.com/groups/96812363-4891-47de-9c3b-930398e97ed3/dashboards/1ffa4999-1a7b-4de8-b459-731c94f1c77d?ctid=2c614b94-e193-408e-8800-ca71e2a4d5a9&pbi_source=linkShare
 17. **Manage semantic models in Power BI**
     - Managing Power BI datasources in Power BI Service
 18. **Implement row level security**
